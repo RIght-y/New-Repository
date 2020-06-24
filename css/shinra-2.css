@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	font-family: 'Bungee Inline', cursive;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+header{
+	background-color: #EC0000;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 10px;
+}
+
+h1, h2,{
+	font-family: 'Bungee Inline', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 5px;
+	width: 250px;
+	border: 5px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: black;
+}
+a:hover{
+	color: #00FFFF;
+	background-color: black;
+}
+
+footer{
+	text-align: center;
+	background-color: #EC0000;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: #EC0000;
+	font-style: italic;
+	margin-top: 0;
+}
+
+
+
+
+
+
+

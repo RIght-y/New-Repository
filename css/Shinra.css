@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #FF5900;
+	text-align: center;
+}
+
+header h1{
+	color: white;
