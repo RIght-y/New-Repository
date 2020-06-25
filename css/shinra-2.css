@@ -2,7 +2,7 @@ body{
 	margin: 0;
 	font-family: 'Bungee Inline', cursive;
 	font-size: 20px;
-	line-height: 25px;
+	line-height: 34px;
 }
 
 header{
@@ -10,10 +10,12 @@ header{
 	text-align: center;
 	padding-top: 60px;
 	padding-bottom: 10px;
+	line-height: 34px;
 }
 
 h1, h2,{
 	font-family: 'Bungee Inline', cursive;
+	line-height: 34px;
 }
 
 header h1{
@@ -31,6 +33,7 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 15px;
+	line-height: 34px;
 }
 
 main img{
@@ -40,6 +43,7 @@ main img{
 h2{
 	font-size: 35px;
 	margin: 40px 0 10px;
+	line-height: 34px;
 }
 
 a{
